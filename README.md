@@ -6,6 +6,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=chrisK824&count_private=true&show_icons=true&theme=dark&include_all_commits=true">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisK824&count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisK824&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisK824&layout=compact" />
 </a>
