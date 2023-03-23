@@ -9,5 +9,5 @@
 
 
 <a href="https://github.com/chrisK824/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-chrisk824.vercel.app/api/wakatime?username=chrisK824" />
+  <img align="center" src="https://github-readme-stats-chrisk824.vercel.app/api/wakatime?username=chrisK824"/>
 </a>
