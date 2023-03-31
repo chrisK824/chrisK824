@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">Software engineer and a Python enthusiast</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrisk824&dummy=unused" alt="chrisk824" /></a> </p>
-
 <p align="center">
   <img align="center" src="https://github-readme-stats-chrisk824.vercel.app/api?username=chrisK824&show_icons=true&count_private=true&include_all_commits=true&theme=dark&card_width=500&dummy=unused" />
 </p>
