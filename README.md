@@ -11,3 +11,5 @@
 <a href="https://github.com/chrisK824/github-readme-stats">
   <img align="center" src="https://github-readme-stats-chrisk824.vercel.app/api/wakatime?username=chrisK824&custom_title=Time%20spent%20since%2023-03-2023&dummy=unused"/>
 </a>
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
