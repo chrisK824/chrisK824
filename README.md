@@ -20,3 +20,5 @@
 <p align="center"><img align="center" src="htttps://github-readme-streak-stats-git-main-chrisk824.vercel.app
 p/?user=chrisk824&theme=highcontrast&dummy=unused" alt="chrisk824" /></p>
 
+
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=chrisK824&theme=highcontrast&dummy=unused" alt="chrisk824" /></p>
