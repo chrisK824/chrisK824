@@ -17,5 +17,6 @@
   <img align="center" src="https://github-readme-stats-chrisk824.vercel.app/api/wakatime?username=chrisK824&custom_title=Time%20spent%20since%2023-03-2023&dummy=unused"/>
 </p>
 
-<p align="center"><img align="center" src="github-readme-streak-stats-bu5c0s86e-chrisk824.vercel.app/?user=chrisk824&theme=highcontrast&dummy=unused" alt="chrisk824" /></p>
+<p align="center"><img align="center" src="htttps://github-readme-streak-stats-git-main-chrisk824.vercel.app
+p/?user=chrisk824&theme=highcontrast&dummy=unused" alt="chrisk824" /></p>
 
