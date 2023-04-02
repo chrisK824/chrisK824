@@ -18,6 +18,6 @@
 
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=chrisK824&theme=highcontrast&dummy=unused" alt="chrisk824" /></p>
 
-<p align="v"><img align="center" src="[https://streak-stats.demolab.com/?user=chrisK824&theme=highcontrast](https://komarev.com/ghpvc/?username=chrisK824)&dummy=unused" alt="chrisk824" /></p>
+<p align="right"><img align="center" src="[https://streak-stats.demolab.com/?user=chrisK824&theme=highcontrast](https://komarev.com/ghpvc/?username=chrisK824)&dummy=unused" alt="chrisk824" /></p>
 
 
