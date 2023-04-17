@@ -17,7 +17,7 @@
 </p>
 
 
-<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=chrisK824&theme=highcontrast&exclude_days=Sat,Sun&dummy=unused" alt="chrisk824" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=chrisK824&theme=highcontrast&dummy=unused" alt="chrisk824" /></p>
 
 
 
