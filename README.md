@@ -1,4 +1,3 @@
-<p align="left"> <img align="center" src="https://komarev.com/ghpvc/?username=chrisK824&dummy=unused" alt="chrisk824" /> </p>
 <h1 align="center">Hi, I'm Chris </h1>
 <h3 align="center">Software engineer and a Python enthusiast</h3>
 
