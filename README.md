@@ -13,7 +13,7 @@
 <p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=chrisK824&theme=highcontrast&starting_year=2010&dummy=unused" alt="chrisk824" /></p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-chrisk824.vercel.app/api/wakatime?username=chrisK824&custom_title=Time%20spent%20since%2023-03-2023&layout=compact&dummy=unused"/>
+  <img align="center" src="https://github-readme-stats-chrisk824.vercel.app/api/wakatime?username=chrisK824&custom_title=Time%20spent%20since%2023-03-2023&theme=tokyonight&layout=compact&dummy=unused"/>
 
 
 </p>
