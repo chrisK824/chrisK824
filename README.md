@@ -2,7 +2,7 @@
 <h3 align="center">Software engineer and a Python enthusiast</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-chrisk824.vercel.app/api?username=chrisK824&show_icons=true&count_private=true&include_all_commits=true&theme=dark&card_width=500&number_format=long&dummy=unused" />
+  <img align="center" src="https://github-readme-stats-chrisk824.vercel.app/api?username=chrisK824&show_icons=true&count_private=true&include_all_commits=true&theme=dark&card_width=500&number_format=long&show=reviews,discussions_started,discussions_answered&dummy=unused" />
 </p>
 
 <p align="center">
