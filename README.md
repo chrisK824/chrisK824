@@ -5,10 +5,6 @@
   <img align="center" src="https://github-readme-stats-chrisk824.vercel.app/api?username=chrisK824&show_icons=true&count_private=true&include_all_commits=true&theme=dark&card_width=500&number_format=long&show=reviews,discussions_answered&rank_icon=percentile" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats-chrisk824.vercel.app/api/top-langs?username=chrisK824&card_width=500&layout=compact&langs_count=20&theme=dark" />
-</p>
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats-git-vercel-chrisk824.vercel.app/?user=chrisK824&theme=highcontrast&starting_year=2010&dummy=unused" alt="chrisk824"/>
 </p>
 
