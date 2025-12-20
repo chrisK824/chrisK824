@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-[![committers.top badge](https://user-badge.committers.top/greece_private/chrisK824.svg?cache_bust=1)](https://user-badge.committers.top/greece_private/chrisK824?cache_bust=1)
+[![committers.top badge](https://user-badge.committers.top/greece_private/chrisK824.svg?cache_bust=1)](https://user-badge.committers.top/greece_private/chrisK824)
 </p>
