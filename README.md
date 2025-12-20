@@ -10,6 +10,6 @@
 
 
 [![committers.top badge](https://user-badge.committers.top/greece/chrisK824.svg?cache_bust=1)](https://user-badge.committers.top/greece/chrisK824)
-[![committers.top badge](https://user-badge.committers.top/greece/chrisK824.svg?cache_bust=1)](https://user-badge.committers.top/greece_public/chrisK824)
-[![committers.top badge](https://user-badge.committers.top/greece/chrisK824.svg?cache_bust=1)](https://user-badge.committers.top/greece_private/chrisK824)
+[![committers.top badge](https://user-badge.committers.top/greece_public/chrisK824.svg?cache_bust=1)](https://user-badge.committers.top/greece_public/chrisK824)
+[![committers.top badge](https://user-badge.committers.top/greece_private/chrisK824.svg?cache_bust=1)](https://user-badge.committers.top/greece_private/chrisK824)
 
